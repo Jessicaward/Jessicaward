@@ -5,6 +5,8 @@
 
 <!--
 [![Jessica's github stats](https://github-readme-stats.vercel.app/api?username=jessicaward)](https://github.com/anuraghazra/github-readme-stats)
+
+https://dev.to/pedes/make-your-github-profile-great-again-oan
 -->
 
 <!--
