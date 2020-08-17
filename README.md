@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: Herald IOM
+- 🔭 I’m currently working on: Herald IOM.
 - 🌱 I’m currently learning: C++
 - ⚡ Fun fact: The first computer programmer was a woman, Ada Lovelace.
+- 📫 How to reach me: @IAmJessicaWard
+- 👩🏻‍💻 Stack Overflow: https://stackoverflow.com/users/5151441/jessica?tab=profile
+- 😄 Pronouns: She/her
+- 💬 Ask me how my Deutschsprachig is progressing!
+- 👯 I’m looking to collaborate on a lightweight video game.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jessicaward)](https://github.com/anuraghazra/github-readme-stats)
 
