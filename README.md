@@ -9,9 +9,9 @@
 - 💬 Ask me how my Deutschsprachig is progressing!
 - 👯 I’m looking to collaborate on a lightweight video game.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jessicaward&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jessicaward&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicaward&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicaward&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jessicaward/Jessicaward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
