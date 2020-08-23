@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on: Herald IOM.
-- 🌱 I’m currently learning: C++
+- 🌱 I’m currently learning: REST API Development
 - ⚡ Fun fact: The first computer programmer was a woman, Ada Lovelace.
 - 📫 How to reach me: @IAmJessicaWard
 - 👩🏻‍💻 Stack Overflow: https://stackoverflow.com/users/5151441/jessica?tab=profile
