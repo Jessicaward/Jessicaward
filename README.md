@@ -6,7 +6,7 @@
 - 📫 How to reach me: @IAmJessicaWard
 - 👩🏻‍💻 Stack Overflow: https://stackoverflow.com/users/5151441/jessica?tab=profile
 - 😄 Pronouns: She/her
-- 💬 Ask me how my Deutschsprachig is progressing!
+- 💬 Ask me what book I'm reading!
 - 👯 I’m looking to collaborate on a lightweight video game.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jessicaward&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
