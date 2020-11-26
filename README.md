@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: a privacy-focused social network.
+- 🔭 I’m currently working on: a spotify CLI client.
 - 🌱 I’m currently learning: REST API Development
 - ⚡ Fun fact: The first computer programmer was a woman, Ada Lovelace.
 - 📫 How to reach me: @IAmJessicaWard
