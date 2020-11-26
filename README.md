@@ -13,6 +13,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicaward&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jessicaward)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Jessicaward/Jessicaward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
