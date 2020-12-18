@@ -9,9 +9,9 @@
 - 💬 Ask me what book I'm reading!
 - 👯 I’m looking to collaborate on a lightweight video game.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jessicaward&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jessicaward&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicaward&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicaward&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jessicaward)](https://github.com/ryo-ma/github-profile-trophy)
 
