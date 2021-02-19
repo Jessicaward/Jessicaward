@@ -8,12 +8,11 @@
 - 😄 Pronouns: She/her
 - 💬 Ask me what book I'm reading!
 - 👯 I’m looking to collaborate on a lightweight video game.
+- 👩🏻‍💻 https://jessica.im
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jessicaward&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicaward&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jessicaward&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Jessicaward/Jessicaward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
