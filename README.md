@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on: a spotify CLI client.
 - 🌱 I’m currently learning: REST API Development
 - ⚡ Fun fact: The first computer programmer was a woman, Ada Lovelace.
-- 📫 How to reach me: @IAmJessicaWard
 - 👩🏻‍💻 Stack Overflow: https://stackoverflow.com/users/5151441/jessica?tab=profile
 - 😄 Pronouns: She/her
 - 💬 Ask me what book I'm reading!
